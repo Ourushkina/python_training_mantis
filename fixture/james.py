@@ -3,7 +3,6 @@ from telnetlib import telnet
 
 class JamesHelper:
 
-
     def __init__(self, app):
         self.app = app
 
